@@ -41,7 +41,7 @@
 	},
 	"dependencies": {
 		"miniraf": "1.0.0",
-		"rematrix": "0.3.0",
+		"rematrix": "0.7.2",
 		"tealight": "0.3.6"
 	},
 	"devDependencies": {
