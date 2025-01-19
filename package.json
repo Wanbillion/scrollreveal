@@ -40,7 +40,7 @@
 		"url": "https://github.com/jlmakes/scrollreveal/issues"
 	},
 	"dependencies": {
-		"miniraf": "1.0.0",
+		"miniraf": "1.0.1",
 		"rematrix": "0.3.0",
 		"tealight": "0.3.6"
 	},
